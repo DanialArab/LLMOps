@@ -12,3 +12,6 @@ Parameter-Efficient Fine-tuning (PEF)
 
 ![]()<img width="1862" height="919" alt="image" src="https://github.com/user-attachments/assets/028866d5-a6f4-463d-921a-ea41586adb07" />
 
+![]()<img width="1532" height="637" alt="image" src="https://github.com/user-attachments/assets/6fc5266f-7ba7-4f1f-b912-627dacb7f47d" />
+
+![]()<img width="1694" height="935" alt="image" src="https://github.com/user-attachments/assets/dd8c2091-8807-48f4-84dd-92236775755a" />
